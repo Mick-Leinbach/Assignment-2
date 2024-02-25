@@ -3,5 +3,6 @@ using namespace std;
 
 int main() {
 	cout << "TESTING!" << endl;
-	cout << "FURTHER TESTING!";
+	cout << "FURTHER TESTING!" << endl;
+	cout << "LAST TEST.";
 }
