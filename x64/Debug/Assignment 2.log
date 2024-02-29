@@ -1,2 +1,18 @@
 ﻿  main.cpp
+C:\Users\mickl\OneDrive\Documents\GitHub\Assignment-2\assignment2.h(336,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mickl\OneDrive\Documents\GitHub\Assignment-2\main.cpp(71,30): warning C4267: 'argument': conversion from 'size_t' to 'const itemType', possible loss of data
+          with
+          [
+              itemType=int
+          ]
+C:\Users\mickl\OneDrive\Documents\GitHub\Assignment-2\main.cpp(89,44): warning C4267: 'argument': conversion from 'size_t' to 'const itemType', possible loss of data
+          with
+          [
+              itemType=int
+          ]
+C:\Users\mickl\OneDrive\Documents\GitHub\Assignment-2\main.cpp(103,22): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\mickl\OneDrive\Documents\GitHub\Assignment-2\main.cpp(123,34): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\mickl\OneDrive\Documents\GitHub\Assignment-2\assignment2.h(286): warning C4715: 'Single_Linked_List<int>::find': not all control paths return a value
+C:\Users\mickl\OneDrive\Documents\GitHub\Assignment-2\assignment2.h(244): warning C4715: 'Single_Linked_List<int>::remove': not all control paths return a value
+C:\Users\mickl\OneDrive\Documents\GitHub\Assignment-2\assignment2.h(338): warning C4715: 'stack::get_average': not all control paths return a value
   Assignment 2.vcxproj -> C:\Users\mickl\OneDrive\Documents\GitHub\Assignment-2\x64\Debug\Assignment 2.exe
